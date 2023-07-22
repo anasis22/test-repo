@@ -1,6 +1,8 @@
 import React from 'react'
 
 const App = () => {
+
+  let a = 20;
   return (
     <div>
       <h2>Hello World</h2>
