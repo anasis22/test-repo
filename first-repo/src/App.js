@@ -2,10 +2,9 @@ import React from 'react'
 
 const App = () => {
 
-  let a = 20;
   return (
     <div>
-      <h2>Hello World{a}</h2>
+      <h2>Hello World</h2>
       <h3>Here another hello world</h3>
       <h3>another change</h3>
       <h3>lolololol</h3>
