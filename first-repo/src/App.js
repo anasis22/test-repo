@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
 
-  let a = 30;
+  let   a = 20;
 
   return (
     <div>
